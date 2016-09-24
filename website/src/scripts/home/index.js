@@ -1,0 +1,1 @@
+var ctl=function(){return this.login=function(){alert(456)},this}();
